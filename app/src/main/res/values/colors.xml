@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3C4353</color>
+    <color name="colorPrimaryDark">#3C4353</color>
+    <color name="colorAccent">#f4f4f4</color>
+    <color name="white">#ffffff</color>
+    <color name="sub_white">#ccffffff</color>
+    <color name="paitient_tag">#2E2E2E</color>
+    <color name="app_background">#3C4353</color>
+    <color name="lin_background">#405067</color>
+    <color name="edit_text_background">#4D5D74</color>
+    <color name="lin_signature">#42495B</color>
+    <color name="btn_background">#32C2FF</color>
+    <color name="grey">#808080</color>E3E3E3
+    <color name="dialog_grey">#E3E3E3</color>
+    <color name="dialog_white">#F5F5F5</color>
+</resources>

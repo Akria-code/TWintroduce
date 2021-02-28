@@ -1,0 +1,140 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="info_tag">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/sub_white</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="info_edit">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">@dimen/margin_10</item>
+        <item name="android:paddingLeft">@dimen/margin_10</item>
+        <item name="android:background">@drawable/info_edit_shape</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="check">
+        <item name="android:layout_width">70dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:background">@drawable/rb_check_select</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_marginRight">@dimen/margin_15</item>
+    </style>
+
+
+    <!--android:windowBackground: 一般用于activity启动的时候，默认的那个背景图。
+   如果你不设置这个属性，那么你的应用启动的时候，会白屏一段时间。
+   android:background: 就是控件的背景。比如设置textView的背景图。
+   注意：
+   如果你在某个activity里面设置了theme，theme里面包含android:background，
+   那么这个android:background 属性会应用于你当前activity页面的所有的控件上。
+   也会影响你的dialog的背景。你会发现，你的dialog 的title,message,button都有了背景。-->
+    <!--相信每个app都需要一个闪屏页 就是一个开始页面 
+    对于新手来说 可能就直接一个activity 弄个背景图片 ，
+    细心地同学也许会发现 每次启动 应用程序的时候 一开始显示的不是那个设置的背景图片 
+    而是白色或黑色背景 可能时间很短 这是为什么呢 。再看看其他市面上的应用都是一开始就是显示背景图片
+    而没有白色背景  研究了很久 其实 设置一下主题就行了  给activity设置主题 其中有一个属性
+    android:windowContentOverlay=“@null”-->
+    <!-- Base application theme. -->
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <!-- 是否显示Title -->
+        <item name="android:windowNoTitle">true</item>
+
+        <!-- 设置dialog显示区域外部的背景（透明），注意这里指的是dialog根布局的背景，
+         如果布局中dialog的ContentView有圆角，所以圆角外部区域显示这个颜色-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+
+        <!-- 设置dialog的背景（透明），注意这里不仅包含dialog根布局的背景，
+        此颜色值会覆盖掉windowBackground的值-->
+        <item name="android:background">@android:color/transparent</item>
+
+        <!-- 是否半透明，貌似没什么卵用 -->
+        <item name="android:windowIsTranslucent">true</item>
+
+        <!-- 设置Dialog的windowFrame框（无） -->
+        <item name="android:windowFrame">@null</item>
+
+        <!-- 是否浮在窗口(Activity)之上 -->
+        <item name="android:windowIsFloating">true</item>
+
+        <!-- 设置灰度的值，当为1时，界面除了我们的dialog内容是高亮显示之外，
+        其余区域都是黑色的，完全看不到其他内容，系统的默认值是0.5 -->
+        <item name="android:backgroundDimAmount">0.5</item>
+
+        <!-- 是否允许背景灰暗，即是否让显示区域以外使用上面设置的黑色半透明背景，
+        设为false时，:backgroundDimAmount的值等价于0 -->
+        <item name="android:backgroundDimEnabled">true</item>
+
+        <!--设置Dialog出现方式-->
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+
+        <!-- 是否有遮盖 -->
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+<!--    <style name="dialog_from_bottom_anim">-->
+<!--        <item name="android:windowEnterAnimation">@anim/dialog_from_bottom_anim_in</item>-->
+<!--        <item name="android:windowExitAnimation">@anim/dialog_from_bottom_anim_out</item>-->
+<!--    </style>-->
+
+<!--    <style name="dialog_scale_anim">-->
+<!--        <item name="android:windowEnterAnimation">@anim/dialog_scale_anim_in</item>-->
+<!--        <item name="android:windowExitAnimation">@anim/dialog_scale_anim_out</item>-->
+<!--    </style>-->
+
+    <style name="text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:drawablePadding">6dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="iv_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">right</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:visibility">invisible</item>
+    </style>
+
+    <style name="rlayout_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+
+
+    <style name="MyEditText" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/btn_background</item>
+        <item name="colorControlActivated">@color/btn_background</item>
+    </style>
+
+    <style name="edit_connect">
+        <item name="android:inputType">text</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:theme">@style/MyEditText</item>
+        <item name="android:textColor">@color/btn_background</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

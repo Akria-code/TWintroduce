@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">流程管理系统</string>
+    <string name="home_title">安全核查系统</string>
+    <string name="opera_visit">术前访视</string>
+    <string name="opera_confirm">手术信息确认</string>
+    <string name="opera_connect_before">术前交接</string>
+    <string name="anae_confirm">麻醉诱导前</string>
+    <string name="opera_first">手术开始前</string>
+    <string name="live">离开手术室</string>
+    <string name="opera_report">手术报告</string>
+    <string name="opera_connect_after">术后交接</string>
+    <string name="opera_room_and_pacu">手术室与PACU</string>
+    <string name="opera_check_apparatus">器械清点</string>
+    <string name="add">添加</string>
+    <string name="signature_pad">电子签名</string>
+
+    <string name="delete">删除</string>
+    <string name="change">修改</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="anaes_one">患者是否已经确认了其身份、手术部位和名称,是否已签署手术同意书?</string>
+    <string name="anaes_two">是否已标记手术部位?</string>
+    <string name="anaes_three">麻醉机和麻醉药是否核对完毕?</string>
+    <string name="anaes_four">是否给患者进行血氧饱和度检测,该仪器运转是否正常?</string>
+    <string name="anaes_five">患者是否有既往过敏史?</string>
+    <string name="anaes_six">是否存在气道困难/误吸的风险?</string>
+    <string name="anaes_seven"><![CDATA[是否存在失血量>500ml(儿童>7ml/kg)的风险?]]></string>
+    <string name="opera_one">确认团队的所有成员要自我介绍其姓名和职责</string>
+    <string name="opera_two">确认患者姓名、手术名称和手术部位?</string>
+    <string name="opera_three">手术前60分钟内，是否给患者注射了预防性抗生素?</string>
+    <string name="opera_four">是否已确认手术的关键步骤是什么</string>
+    <string name="opera_five">是否已确认手术需要多长时间?</string>
+    <string name="opera_six">是否已确认预计的手术失血量是多少?</string>
+    <string name="opera_seven">患者有没有特殊的注意事项?</string>
+    <string name="opera_eight">消毒(包括消毒指示带结果)完成没有?</string>
+    <string name="opera_nine">设备有没有问题?有没有其他注意事项?</string>
+    <string name="opera_ten">是否已展示必须的影像资料?</string>
+    <string name="live_one">是否已确认手术名称?</string>
+    <string name="live_two">是否已清点完毕手术器械、敷料和针头?</string>
+    <string name="live_three">是否已标注手术标本(大声朗读标本标签，包括患者姓名)</string>
+    <string name="live_four">是否存在需要解决的设备问题?</string>
+    <string name="live_five">是否已确认手术后,该患者在康复、治疗方面的特别注意事项</string>
+
+    <string name="shi">是</string>
+    <string name="fou">否</string>
+    <string name="bushiyong">不适用</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

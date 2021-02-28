@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48e1cfd0-282d-4709-97dc-548c0eb050e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../font/alex_brush.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../values/font_certs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../values/preloaded_fonts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/4.6/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/4.6/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/4.6/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/4.6/javaCompile/taskJars.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/assetWizardSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../libs/com.baidu.tts_2.3.2.20180713_6101c2a.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bd_etts_common_speech_as_mand_eng_high_am_v3.0.0_20170516.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bd_etts_common_speech_f7_mand_eng_high_am-mix_v3.0.0_20170512.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bd_etts_common_speech_m15_mand_eng_high_am-mix_v3.0.0_20170505.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bd_etts_common_speech_yyjw_mand_eng_high_am-mix_v3.0.0_20170512.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/bd_etts_text.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/bd_etts_text.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ic_launcher-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ic_launcher-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/adapter/MyPatientAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/adapter/MyPatientAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/base/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/base/BaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/base/TTSBaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/base/TTSBaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/model/AllPatientModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/model/AllPatientModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/tts/MessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/tts/MessageListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/tts/MySyntherizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/tts/MySyntherizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/ui/AnaesthesiaActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/ui/AnaesthesiaActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/ui/InfoConfirmActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/ui/InfoConfirmActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/ui/InfoEditActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/ui/InfoEditActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/ui/OperaFrontActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/ui/OperaFrontActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/ui/OperaLiveActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/ui/OperaLiveActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/utils/BeanUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/utils/BeanUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/utils/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/utils/FileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/utils/SpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/utils/SpUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/utils/VerticalSeekBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/com/weiyi/vsystem/utils/VerticalSeekBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/arm64-v8a/libbd_etts.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../jniLibs/arm64-v8a/libbd_etts.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/arm64-v8a/libbdtts.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/arm64-v8a/libgnustl_shared.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../jniLibs/arm64-v8a/libgnustl_shared.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/armeabi-v7a/libbd_etts.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../jniLibs/armeabi-v7a/libbd_etts.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/armeabi-v7a/libbdtts.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/armeabi-v7a/libgnustl_shared.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../jniLibs/armeabi-v7a/libgnustl_shared.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/armeabi/libbd_etts.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../jniLibs/armeabi/libbd_etts.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/armeabi/libbdtts.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/armeabi/libgnustl_shared.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../jniLibs/armeabi/libgnustl_shared.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/x86/libbd_etts.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../jniLibs/x86/libbd_etts.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/x86/libbdtts.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/x86/libgnustl_shared.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../jniLibs/x86/libgnustl_shared.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/x86_64/libbd_etts.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../jniLibs/x86_64/libbd_etts.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/x86_64/libbdtts.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jniLibs/x86_64/libgnustl_shared.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../jniLibs/x86_64/libgnustl_shared.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drawable/check_white_shape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drawable/info_edit_shape.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../drawable/info_edit_shape.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drawable/info_shape.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../drawable/info_shape.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drawable/rb_check_select.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../drawable/rb_check_select.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drawable/rb_check_yello_select.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drawable/voice_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_anaesthesia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_anaesthesia.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_opera_front.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_opera_front.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_opera_live.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_opera_live.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/activity_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/activity_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/titlebar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../layout/titlebar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-anydpi-v26/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xhdpi/home_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/live_opera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo_bottom.png" beforeDir="false" afterPath="$PROJECT_DIR$/logo_bottom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mayd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qxqd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssksq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mipmap-xxxhdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ic_launcher.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_incomplete.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/home_complete.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/handover_after.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="545" />
+    <option name="y" value="39" />
+    <option name="width" value="753" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mipmap-xxhdpi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mipmap-xxhdpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mipmap-xxhdpi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mipmap-xxhdpi" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="E:/AndroidStudioProjects/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48e1cfd0-282d-4709-97dc-548c0eb050e4" name="Default Changelist" comment="" />
+      <created>1585272755327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585272755327</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="936" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20747218" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ic_launcher.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_incomplete.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home_complete.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handover_after.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
